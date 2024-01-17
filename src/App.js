@@ -16,7 +16,7 @@ function App() {
           with a passion for deep thinking.</p>
         </div>
         {/* 오른쪽: 프로필 사진 */}
-        <div className="w-[40%]">
+        <div className="w-[40%]">dddd
           <img src={img} alt="aa" />
         </div>
       </div>
