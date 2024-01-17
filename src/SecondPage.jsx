@@ -32,7 +32,7 @@ export default function SecondPage() {
                         <ul className="list-disc">
                             <li>ML / DL</li>
                             <li>CV (Computer-Vision)</li>
-                            <li>Security for AI & AI for Security</li>
+                            <li>Security for AI & AI for Security</li>ggg
                         </ul>
                     </div>
                 </div>                
